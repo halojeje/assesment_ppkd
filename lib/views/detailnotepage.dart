@@ -95,18 +95,6 @@ class _DetailNotePageState extends State<DetailNotePage> {
         ),
         backgroundColor: const Color(0xFF5080E8),
         foregroundColor: Colors.white,
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.edit_outlined),
-            tooltip: 'Edit Catatan',
-            onPressed: _handleEdit,
-          ),
-          IconButton(
-            icon: const Icon(Icons.delete_outline),
-            tooltip: 'Hapus Catatan',
-            onPressed: _handleDelete,
-          ),
-        ],
       ),
       body: SingleChildScrollView(
         child: Column(
