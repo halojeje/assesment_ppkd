@@ -1,6 +1,6 @@
 # assesment_ppkd
 
-A new Flutter project.
+Project untuk asesment PMJ 
 
 ## Getting Started
 
