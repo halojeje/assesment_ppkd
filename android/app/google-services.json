@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749958478708",
+    "project_id": "jeihanmuthia-assesment-ppkd",
+    "storage_bucket": "jeihanmuthia-assesment-ppkd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749958478708:android:6f366fccddda6d4c584a21",
+        "android_client_info": {
+          "package_name": "com.halojeje.assesment_ppkd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1gPwF8z67ul7rHaNNBayYUxQiPsGvAxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
